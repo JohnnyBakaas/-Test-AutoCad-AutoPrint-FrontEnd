@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: aliceblue;
+}
+
+body {
+  background-color: #242424;
+}
+
+button {
+  background-color: #242424;
+  border-radius: 5px;
+}
+
+select {
+  background-color: #242424;
+}
+
+button:hover {
+  background-color: rgb(13, 13, 13);
+}
+
+td {
+  padding: 5px;
+  border: solid black 1px;
+}

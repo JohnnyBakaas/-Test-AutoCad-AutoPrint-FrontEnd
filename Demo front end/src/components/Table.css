@@ -1,0 +1,17 @@
+/* Table.css */
+.drawings-enter {
+  opacity: 0;
+}
+
+.drawings-enter-active {
+  opacity: 1;
+  transition: opacity 300ms;
+}
+
+.drawings-exit {
+  opacity: 1;
+}
+
+.drawings-exit-active {
+  opacity: 1;
+}
